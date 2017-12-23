@@ -1,7 +1,7 @@
 '''
 Created on 23 dic 2017
 
-@author: pierpa
+@author: pierpa questa volta fatta modifica
 '''
 # -*- coding: UTF-8 -*-
 """
